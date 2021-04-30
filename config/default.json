@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://gogo123:gogo123@musiccluster.rr9qu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://gogo123:gogo123@musiccluster.rr9qu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secrettokenmusicproject"
 }
